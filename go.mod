@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/micro/micro/v3 v3.16.0
-	github.com/tullo/shippy/shippy-service-user v0.0.0-20230318131614-8bc73ce8f6ea
+	github.com/tullo/shippy-service-user v1.0.1
 )
 
 require (

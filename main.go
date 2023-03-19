@@ -7,7 +7,7 @@ import (
 	"os"
 
 	"github.com/micro/micro/v3/service"
-	proto "github.com/tullo/shippy/shippy-service-user/proto"
+	proto "github.com/tullo/shippy-service-user/proto"
 )
 
 func createUser(ctx context.Context, srv *service.Service) error {
