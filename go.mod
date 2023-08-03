@@ -3,7 +3,7 @@ module github.com/tullo/shippy-cli-user
 go 1.20
 
 require (
-	github.com/micro/micro/v3 v3.19.0
+	github.com/micro/micro/v4 v4.3.1
 	github.com/tullo/shippy-service-user v1.0.1
 )
 
