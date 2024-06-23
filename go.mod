@@ -1,6 +1,6 @@
 module github.com/tullo/shippy-cli-user
 
-go 1.20
+go 1.22
 
 require (
 	github.com/micro/micro/v3 v3.19.0
