@@ -4,6 +4,7 @@ go 1.22
 
 require (
 	github.com/micro/micro/v3 v3.19.0
+	github.com/micro/micro/v5 v5.0.0
 	github.com/tullo/shippy-service-user v1.0.2
 )
 
