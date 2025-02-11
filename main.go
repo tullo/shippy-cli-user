@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/micro/micro/v3/service"
+	"github.com/micro/micro/v5/service"
 	proto "github.com/tullo/shippy-service-user/proto"
 )
 
