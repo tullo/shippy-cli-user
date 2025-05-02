@@ -5,7 +5,7 @@ go 1.23.0
 toolchain go1.24.2
 
 require (
-	github.com/micro/micro/v5 v5.4.0
+	github.com/micro/micro/v5 v5.5.0
 	github.com/tullo/shippy-service-user v1.0.3
 )
 
