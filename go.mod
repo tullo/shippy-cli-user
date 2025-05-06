@@ -2,7 +2,7 @@ module github.com/tullo/shippy-cli-user
 
 go 1.23.0
 
-toolchain go1.24.2
+toolchain go1.24.3
 
 require (
 	github.com/micro/micro/v5 v5.5.0
